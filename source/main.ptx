@@ -8,7 +8,7 @@
   <book>
     <title>Introduction to Statistics</title>
 
-    <subtitle>STAT 117 Fall 2026</subtitle>
+    <subtitle>STAT 117 Fall 2026z</subtitle>
 
     <!-- Optional: include frontmatter with author info and date -->
     <xi:include href="./frontmatter.ptx" />
