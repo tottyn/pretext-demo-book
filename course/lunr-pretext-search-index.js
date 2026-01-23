@@ -46,15 +46,6 @@ var ptx_lunr_docs = [
   "body": " Important Dates     Friday, Aug 25  Last day to add a class    Monday, Sep 4  Labor Day (no classes)    Monday, Sep 8  Last day to drop a class    Nov 26 - Nov 28  Thanksgiving break (no classes Wednesday, Thursday or Friday)    Friday, Dec 5  Last day to withdraw from class and receive a W    Thursday, Dec 11  Final Exam from 10:45am to 1:15pm     "
 },
 {
-  "id": "course-documents",
-  "level": "1",
-  "url": "course-documents.html",
-  "type": "Chapter",
-  "number": "",
-  "title": "Course Documents",
-  "body": " Course Documents     "
-},
-{
   "id": "notes-week-01",
   "level": "1",
   "url": "notes-week-01.html",
