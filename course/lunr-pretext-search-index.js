@@ -25,7 +25,7 @@ var ptx_lunr_docs = [
   "type": "Subsection",
   "number": "",
   "title": "Assessments and Grades",
-  "body": " Assessments and Grades     Learning targets  By the end of this course, you should be able to:              Assessment of Learning Targets      Final Exam      Assessment of Mathematical Engagement  Your level of effort and engagement will be assessed through your participation in class and completion of a variety of homework assignments.   Participation      Daily Prep Assignments      Practice Problems      Written Homework         Final Grades     "
+  "body": " Assessments and Grades     Assessment of Learning Targets      Final Exam      Assessment of Mathematical Engagement  Your level of effort and engagement will be assessed through your participation in class and completion of a variety of homework assignments.   Participation      Daily Prep Assignments      Practice Problems      Written Homework         Final Grades     "
 },
 {
   "id": "sec-course-policies",
