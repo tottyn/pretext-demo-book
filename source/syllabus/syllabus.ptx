@@ -5,7 +5,7 @@
 
   <introduction>
     <p>
-      Welcome to what promises to be an exciting and fun semester of ...
+      
     </p>
   </introduction>
   <!-- Include chapters -->
@@ -13,15 +13,13 @@
     <title>Course Information</title>
 
     <p>
-      This is the syllabus for <term>course name (MATH xxx, section xxx)</term> for semester 20xx.
-      It is a x credit course.
+      This is the syllabus for <term>STAT 203 - Statistics for the Natural Sciences</term> for Fall 2026.
       <dl>
       <li>
         <title>Instructor</title>
 
         <p>
-          Prof.
-          Lastname, Office Location, <url href="mailto:prof.lastname@example.edu">prof.lastname@example.edu</url>.
+          Dr. Njesa Totty, HH 404C, <url href="mailto:ntotty@framingham.edu">ntotty@framingham.edu</url>.
         </p>
       </li>
 
@@ -29,19 +27,16 @@
         <title>Student Hours</title>
 
         <p>
-          TBD
+          MWRF 9:45am-10:30am, or by appointment
         </p>
 
-        <p>
-          <alert>Important</alert>: I <em>want</em> to see you in student hours, and will happily make appointments with you outside of the regular hours.  I'm also available by email and will respond within 24 hours, usually much sooner.  There is little I enjoy more than discussing mathematics, so you are really doing me a favor by coming to see me.
-        </p>
       </li>
 
       <li>
         <title>Class meets</title>
 
         <p>
-          course times and location.
+          MWRF 10:30am-11:20am in HH 401
         </p>
       </li>
 
@@ -49,7 +44,12 @@
         <title>Course Description</title>
 
         <p>
-          course description from catalog
+          A thorough introduction to the application of statistics to the sciences. 
+          Topics include a brief introduction to the appropriate descriptive statistics, 
+          relevant probability distributions, and a heavy focus on regression and hypothesis 
+          testing, including t-tests, chi-square tests for categorical data, and analysis 
+          of variance. Emphasis is placed on the analysis of data in order to apply 
+          an appropriate inferential test. Appropriate statistical software is employed. 
         </p>
       </li>
 
@@ -57,7 +57,8 @@
         <title>Prerequisite</title>
 
         <p>
-          list of prerequisites
+          A grade of C (2.00) or higher in MATH 123 Introduction to Functions or 
+          the eligibility to enroll in MATH 180 Precalculus.
         </p>
       </li>
 
