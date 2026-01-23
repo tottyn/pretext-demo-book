@@ -113,7 +113,7 @@
             <p> <alert> Data Interpretation &amp; Communication: </alert> You will practice explaining statistical results in plain language and constructing clear visualizations, enhancing written and verbal communication skills necessary for reporting and collaboration.</p>
             <p> <alert> Teamwork &amp; Professionalism: </alert> By working with data in realistic contexts, you will develop collaborative and ethical approaches to research, aligning with NACE competencies of teamwork, professionalism, and ethical responsibility.</p>
             <p> <alert> Career Readiness &amp; Lifelong Learning: </alert> Mastery of statistical tools, data interpretation, and software proficiency equips you to pursue further research, graduate studies, or technical roles, fostering adaptability and continuous learning in your career.</p>
-          For more information on NACE competencies visit: <url href="https://www.naceweb.org/career-readiness/competencies/career-readiness-defined/">NACE Career Readiness Defined</url> 
+          For more information on NACE competencies visit: <url href="https://www.naceweb.org/career-readiness/competencies/career-readiness-defined/">NACE Career Readiness Defined</url>. 
 
         </p>
       </li>
@@ -134,8 +134,11 @@
         <title>Textbook and course materials</title>
 
         <p>
-          <pubtitle>textbook name</pubtitle>
-          by textbook author.
+          Course content and further reading will come from
+          <pubtitle>OpenIntro Statistics, 4th Edition</pubtitle>
+          by Diez, Çetinkaya-Rundel, and Barr.
+          <url href="https://leanpub.com/os">A PDF is available for free online</url>.
+
         </p>
       </li>
       </dl>
