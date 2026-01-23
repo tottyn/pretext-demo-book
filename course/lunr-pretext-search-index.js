@@ -46,24 +46,6 @@ var ptx_lunr_docs = [
   "body": " Important Dates     Friday, Aug 25  Last day to add a class    Monday, Sep 4  Labor Day (no classes)    Monday, Sep 8  Last day to drop a class    Nov 26 - Nov 28  Thanksgiving break (no classes Wednesday, Thursday or Friday)    Friday, Dec 5  Last day to withdraw from class and receive a W    Thursday, Dec 11  Final Exam from 10:45am to 1:15pm     "
 },
 {
-  "id": "notes-week-01",
-  "level": "1",
-  "url": "notes-week-01.html",
-  "type": "Section",
-  "number": "",
-  "title": "Week 1",
-  "body": " Week 1   This is an outline of the topics we covered in the first week of class.     Monday 8\/22      Wednesday 8\/24      Friday 8\/26     "
-},
-{
-  "id": "notes-week-02",
-  "level": "1",
-  "url": "notes-week-02.html",
-  "type": "Section",
-  "number": "",
-  "title": "Week 2",
-  "body": " Week 2   Monday      Wednesday      Friday     "
-},
-{
   "id": "activity-00-sample-activity",
   "level": "1",
   "url": "activity-00-sample-activity.html",
@@ -143,42 +125,6 @@ var ptx_lunr_docs = [
   "number": "7",
   "title": "",
   "body": "  Answer the following questions about the digraph in .     Is the sequence a walk in the graph? If so, is it an open walk?    Yes, this sequence is a walk, and it is an open walk because the first and last vertices ( and , respectively) are different.      Is the sequence a walk in the graph? If so, is it an open or closed walk? Is it a trail, path, circuit, or cycle?    This sequence is not a walk because is not an edge in the given graph. Since this is not a walk, it automatically cannot be an open or closed walk, or a trail, path, circuit, or cycle.      Is the sequence a walk in the graph? If so, is it an open or closed walked? Is it a trail, path, circuit, or cycle?    "
-},
-{
-  "id": "sample-handout",
-  "level": "1",
-  "url": "sample-handout.html",
-  "type": "Handout",
-  "number": "",
-  "title": "Sample Handout: Derivative Rules",
-  "body": " Sample Handout: Derivative Rules    Rules for specific types of functions    Constant functions       Power functions       Exponential functions          Logarithmic functions       Trigonometric functions   .   .   .   .   .      Rules for combinations of functions    Constant multiples       Sum and difference       Products (the product rule)       Quotients (the quotient rule)       Compositions (the chain rule)         "
-},
-{
-  "id": "hw1",
-  "level": "1",
-  "url": "hw1.html",
-  "type": "Worksheet",
-  "number": "",
-  "title": "Sample Homework: Written Homework 1",
-  "body": " Sample Homework: Written Homework 1    Instructions: Complete all the parts below on a separate page (not between the prompts). Submit your work by uploading a single PDF to Canvas. This can either be a scan of handwritten solutions or a PDF you created by first typing your solutions.  Note that the last prompt asks you to write a project proposal . This should be written out in paragraph form. Pretend you are really trying to earn the business of the farmer, so make it professional and accurate.      A local farmer has reached out to your family's livestock containment company for an estimate to create a habitat for their new emus. The requirements given to you by the farmer are:   Create a rectangular habitat that is 4000 square feet total, divided into two equal sized areas.    Exterior fence must be 6' tall sturdy 12 gauge galvanized steel.    Interior fence to divide the two areas can be 4' tall and as needs to only be 16 gauge.    Since emu's like to run, it is preferable to have one dimension of the individual areas be at least 100' long.   The farmer has requested a project plan, including estimates, for the habitat. Your dad has asked you to use calculus to help write the proposal.  On your end, you know that including parts and labor, the exterior fence will cost $15 per foot, while the interior fence costs only $10 per foot.     Start by drawing a schematic for the project.      Suppose one dimension is exactly 100'. Find the other dimension and compute the exact cost for this version of the habitat.      Is there a way to reduce the cost for the farmer? Create a function that gives the total cost of a project when the long side of the habitat is feet long. Verify that is the same cost as you found in the previous part.    You will likely want to first write in terms of two dimensions. Then use the fact that the total area of the habitat must be 4000 square feet to eliminate one variable.      Sketch a graph of the function on an appropriate domain.      Use calculus to find the absolute minimum of the function , both with and without the restriction that one side of the habitat must be 100' long.      Use what you have found in the above parts to write a self contained project proposal, that includes at least two options for the farmer. Clearly explain what the options are, how much they would cost, and what the farmer would get with each. Remember, you are trying to sell fence here. Don't dissapoint your dad!      "
-},
-{
-  "id": "hw1-2-2",
-  "level": "2",
-  "url": "hw1.html#hw1-2-2",
-  "type": "Paragraph (with a defined term)",
-  "number": "",
-  "title": "",
-  "body": "project proposal "
-},
-{
-  "id": "hw1-3-1",
-  "level": "2",
-  "url": "hw1.html#hw1-3-1",
-  "type": "Project",
-  "number": "1",
-  "title": "",
-  "body": "  A local farmer has reached out to your family's livestock containment company for an estimate to create a habitat for their new emus. The requirements given to you by the farmer are:   Create a rectangular habitat that is 4000 square feet total, divided into two equal sized areas.    Exterior fence must be 6' tall sturdy 12 gauge galvanized steel.    Interior fence to divide the two areas can be 4' tall and as needs to only be 16 gauge.    Since emu's like to run, it is preferable to have one dimension of the individual areas be at least 100' long.   The farmer has requested a project plan, including estimates, for the habitat. Your dad has asked you to use calculus to help write the proposal.  On your end, you know that including parts and labor, the exterior fence will cost $15 per foot, while the interior fence costs only $10 per foot.     Start by drawing a schematic for the project.      Suppose one dimension is exactly 100'. Find the other dimension and compute the exact cost for this version of the habitat.      Is there a way to reduce the cost for the farmer? Create a function that gives the total cost of a project when the long side of the habitat is feet long. Verify that is the same cost as you found in the previous part.    You will likely want to first write in terms of two dimensions. Then use the fact that the total area of the habitat must be 4000 square feet to eliminate one variable.      Sketch a graph of the function on an appropriate domain.      Use calculus to find the absolute minimum of the function , both with and without the restriction that one side of the habitat must be 100' long.      Use what you have found in the above parts to write a self contained project proposal, that includes at least two options for the farmer. Clearly explain what the options are, how much they would cost, and what the farmer would get with each. Remember, you are trying to sell fence here. Don't dissapoint your dad!    "
 }
 ]
 
