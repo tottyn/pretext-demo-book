@@ -55,25 +55,55 @@
 
 
 
+        <li>
+          <title>Course Learning Outcomes</title>
+
+            <p>
+              <ol>
+                <li>
+                  <p> Turn research problems into statistical questions.
+                  </p>
+                </li>
+
+                <li>
+                  <p> Identify the structure of a study and explain how this influences potential conclusions.
+                  </p>
+                </li>
+
+                <li>
+                  <p> Construct graphics from data and describe what they reveal about the data.
+                  </p>
+                </li>
+
+                <li>
+                  <p> Compute summary statistics and explain what they communicate about the data in plain language.
+                  </p>
+                </li>
+
+                <li>
+                  <p> Select and apply an appropriate statistical method for a given dataset.
+                  </p>
+                </li>
+
+                <li>
+                  <p> Communicate the results of a statistical analysis.
+                  </p>
+                </li>
+
+                <li>
+                  <p> Use statistical software for data summarization and analysis.
+                  </p>
+                </li>
+
+              </ol>
+            
+
+            </p>
+      </li>
 
 
 
-<p>
-  Course Learning Outcomes
-By the end of the course, you will be able to:
--	Turn research problems into statistical questions.
--	Identify the structure of a study and explain how this influences potential conclusions.
--	Construct graphics from data and describe what they reveal about the data.
--	Compute summary statistics and explain what they communicate about the data in plain language.
--	Select and apply an appropriate statistical method for a given dataset.
--	Communicate the results of a statistical analysis.
--	Use statistical software for data summarization and analysis.
-</p>
-
-
-
-
-
+      
       <li>
         <title>Prerequisite</title>
 
@@ -95,12 +125,6 @@ By the end of the course, you will be able to:
     </p>
 
 
-    <paragraphs>
-      <title>Course Overview</title>
-
-      <p>
-      </p>
-    </paragraphs>
   </subsection>
 
 
