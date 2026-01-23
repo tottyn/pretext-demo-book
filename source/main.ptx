@@ -6,9 +6,9 @@
   <xi:include href="./docinfo.ptx" />
   <!-- By creating a PreTeXt "book" for the course, we can split components into "chapters" -->
   <book>
-    <title>Introduction to Statistics</title>
+    <title>Statistics for the Natural Sciences</title>
 
-    <subtitle>STAT 117</subtitle>
+    <subtitle>STAT 203</subtitle>
 
     <!-- Optional: include frontmatter with author info and date -->
     <xi:include href="./frontmatter.ptx" />
@@ -44,12 +44,6 @@
 
     <chapter xml:id="activities">
       <title>In-Class Activities</title>
-
-      <introduction>
-        <p>
-          These are copies of the in-class activities distributed during the semester.
-        </p>
-      </introduction>
 
       <!-- Remove the example and replace with your own activities -->
       <xi:include href="./activities/00-sample-activity.ptx"/>
