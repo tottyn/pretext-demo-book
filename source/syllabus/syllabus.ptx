@@ -103,6 +103,23 @@
 
 
 
+      <li>
+        <title>Career Readiness</title>
+
+        <p>
+          This course prepares you for your career by addressing the following National Association of Colleges and Employers (NACE) competencies:
+            <p> <alert> Problem-Solving &amp; Critical Thinking: </alert> Your will learn to translate research questions into statistical queries, analyze study designs, and select appropriate inferential tests, fostering analytical reasoning and decision-making essential for all careers.</p>
+            <p> <alert> Quantitative &amp; Technical Skills: </alert> The course emphasizes computing summary statistics, constructing informative graphics, and using statistical software (RStudio), preparing you to handle and interpret complex data accurately.</p>
+            <p> <alert> Data Interpretation &amp; Communication: </alert> You will practice explaining statistical results in plain language and constructing clear visualizations, enhancing written and verbal communication skills necessary for reporting and collaboration.</p>
+            <p> <alert> Teamwork &amp; Professionalism: </alert> By working with data in realistic contexts, you will develop collaborative and ethical approaches to research, aligning with NACE competencies of teamwork, professionalism, and ethical responsibility.</p>
+            <p> <alert> Career Readiness &amp; Lifelong Learning: </alert> Mastery of statistical tools, data interpretation, and software proficiency equips you to pursue further research, graduate studies, or technical roles, fostering adaptability and continuous learning in your career.</p>
+          For more information on NACE competencies visit: https://www.naceweb.org/career-readiness/competencies/career-readiness-defined/
+
+        </p>
+      </li>
+
+
+
       
       <li>
         <title>Prerequisite</title>
