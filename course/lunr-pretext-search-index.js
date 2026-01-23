@@ -1,22 +1,58 @@
 var ptx_lunr_search_style = "textbook";
 var ptx_lunr_docs = [
 {
-  "id": "syllabus",
+  "id": "sec-course-info",
   "level": "1",
-  "url": "syllabus.html",
-  "type": "Section",
+  "url": "sec-course-info.html",
+  "type": "Subsection",
   "number": "",
-  "title": "Syllabus",
-  "body": " Syllabus   Welcome to what promises to be an exciting and fun semester of ...     Course Information  This is the syllabus for course name (MATH xxx, section xxx) for semester 20xx. It is a x credit course.   Instructor  Prof. Lastname, Office Location, prof.lastname@example.edu .    Student Hours  TBD   Important : I want to see you in student hours, and will happily make appointments with you outside of the regular hours. I'm also available by email and will respond within 24 hours, usually much sooner. There is little I enjoy more than discussing mathematics, so you are really doing me a favor by coming to see me.    Class meets  course times and location.    Course Description  course description from catalog    Prerequisite  list of prerequisites    Textbook and course materials   textbook name by textbook author.      Course Overview       Assessments and Grades     Learning targets  By the end of this course, you should be able to:              Assessment of Learning Targets      Final Exam      Assessment of Mathematical Engagement  Your level of effort and engagement will be assessed through your participation in class and completion of a variety of homework assignments.   Participation      Daily Prep Assignments      Practice Problems      Written Homework         Final Grades        Course Policies   Attendance      Late work      Classroom Decorum      Academic Integrity      Generative AI      Title IX and Equal Opportunity       Important Dates     Friday, Aug 25  Last day to add a class    Monday, Sep 4  Labor Day (no classes)    Monday, Sep 8  Last day to drop a class    Nov 26 - Nov 28  Thanksgiving break (no classes Wednesday, Thursday or Friday)    Friday, Dec 5  Last day to withdraw from class and receive a W    Thursday, Dec 11  Final Exam from 10:45am to 1:15pm      "
+  "title": "Course Information",
+  "body": " Course Information  This is the syllabus for course name (MATH xxx, section xxx) for semester 20xx. It is a x credit course.   Instructor  Prof. Lastname, Office Location, prof.lastname@example.edu .    Student Hours  TBD   Important : I want to see you in student hours, and will happily make appointments with you outside of the regular hours. I'm also available by email and will respond within 24 hours, usually much sooner. There is little I enjoy more than discussing mathematics, so you are really doing me a favor by coming to see me.    Class meets  course times and location.    Course Description  course description from catalog    Prerequisite  list of prerequisites    Textbook and course materials   textbook name by textbook author.      Course Overview     "
 },
 {
   "id": "sec-course-info-2",
   "level": "2",
-  "url": "syllabus.html#sec-course-info-2",
+  "url": "sec-course-info.html#sec-course-info-2",
   "type": "Paragraph (with a defined term)",
   "number": "",
   "title": "",
   "body": "course name (MATH xxx, section xxx) "
+},
+{
+  "id": "sec-assessments",
+  "level": "1",
+  "url": "sec-assessments.html",
+  "type": "Subsection",
+  "number": "",
+  "title": "Assessments and Grades",
+  "body": " Assessments and Grades     Learning targets  By the end of this course, you should be able to:              Assessment of Learning Targets      Final Exam      Assessment of Mathematical Engagement  Your level of effort and engagement will be assessed through your participation in class and completion of a variety of homework assignments.   Participation      Daily Prep Assignments      Practice Problems      Written Homework         Final Grades     "
+},
+{
+  "id": "sec-course-policies",
+  "level": "1",
+  "url": "sec-course-policies.html",
+  "type": "Subsection",
+  "number": "",
+  "title": "Course Policies",
+  "body": " Course Policies   Attendance      Late work      Classroom Decorum      Academic Integrity      Generative AI      Title IX and Equal Opportunity     "
+},
+{
+  "id": "sec-important-dates",
+  "level": "1",
+  "url": "sec-important-dates.html",
+  "type": "Subsection",
+  "number": "",
+  "title": "Important Dates",
+  "body": " Important Dates     Friday, Aug 25  Last day to add a class    Monday, Sep 4  Labor Day (no classes)    Monday, Sep 8  Last day to drop a class    Nov 26 - Nov 28  Thanksgiving break (no classes Wednesday, Thursday or Friday)    Friday, Dec 5  Last day to withdraw from class and receive a W    Thursday, Dec 11  Final Exam from 10:45am to 1:15pm     "
+},
+{
+  "id": "course-documents",
+  "level": "1",
+  "url": "course-documents.html",
+  "type": "Chapter",
+  "number": "",
+  "title": "Course Documents",
+  "body": " Course Documents     "
 },
 {
   "id": "notes-week-01",
