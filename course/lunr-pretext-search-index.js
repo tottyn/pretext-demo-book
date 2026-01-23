@@ -7,7 +7,7 @@ var ptx_lunr_docs = [
   "type": "Subsection",
   "number": "",
   "title": "Course Information",
-  "body": " Course Information  This is the syllabus for course name (MATH xxx, section xxx) for semester 20xx. It is a x credit course.   Instructor  Prof. Lastname, Office Location, prof.lastname@example.edu .    Student Hours  TBD   Important : I want to see you in student hours, and will happily make appointments with you outside of the regular hours. I'm also available by email and will respond within 24 hours, usually much sooner. There is little I enjoy more than discussing mathematics, so you are really doing me a favor by coming to see me.    Class meets  course times and location.    Course Description  course description from catalog    Prerequisite  list of prerequisites    Textbook and course materials   textbook name by textbook author.      Course Overview     "
+  "body": " Course Information  This is the syllabus for STAT 203 - Statistics for the Natural Sciences for Fall 2026.   Instructor  Dr. Njesa Totty, HH 404C, ntotty@framingham.edu .    Student Hours  MWRF 9:45am-10:30am, or by appointment    Class meets  MWRF 10:30am-11:20am in HH 401    Course Description  A thorough introduction to the application of statistics to the sciences. Topics include a brief introduction to the appropriate descriptive statistics, relevant probability distributions, and a heavy focus on regression and hypothesis testing, including t-tests, chi-square tests for categorical data, and analysis of variance. Emphasis is placed on the analysis of data in order to apply an appropriate inferential test. Appropriate statistical software is employed.    Prerequisite  A grade of C (2.00) or higher in MATH 123 Introduction to Functions or the eligibility to enroll in MATH 180 Precalculus.    Textbook and course materials   textbook name by textbook author.      Course Overview     "
 },
 {
   "id": "sec-course-info-2",
@@ -16,7 +16,7 @@ var ptx_lunr_docs = [
   "type": "Paragraph (with a defined term)",
   "number": "",
   "title": "",
-  "body": "course name (MATH xxx, section xxx) "
+  "body": "STAT 203 - Statistics for the Natural Sciences "
 },
 {
   "id": "sec-assessments",
