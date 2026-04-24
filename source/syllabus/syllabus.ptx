@@ -1,217 +1,227 @@
 <?xml version="1.0" encoding="utf-8"?>
 
-<section xml:id="syllabusactual" xmlns:xi="http://www.w3.org/2001/XInclude">
+<chapter xml:id="syllabusactual">
   <title>Syllabus</title>
 
-  <!-- Include chapters -->
-  <subsection xml:id="sec-course-info">
-    <title>Course Information</title>
+  <!-- Contact Information -->
+  <section xml:id="contact-information">
+    <title>Contact Information</title>
 
-    <p>
-      This is the syllabus for <term>STAT 203 - Statistics for the Natural Sciences</term> for Fall 2026.
-      <dl>
+    <dl>
       <li>
         <title>Instructor</title>
-
-        <p>
-          Dr. Njesa Totty, HH 404C, <url href="mailto:ntotty@framingham.edu">ntotty@framingham.edu</url>.
-        </p>
+        <p>Njesa Totty</p>
       </li>
 
       <li>
-        <title>Student Hours</title>
-
-        <p>
-          MWRF 9:45am-10:30am, or by appointment
-        </p>
-
+        <title>Email</title>
+        <p><url href="mailto:ntotty@framingham.edu">ntotty@framingham.edu</url></p>
       </li>
 
       <li>
-        <title>Class meets</title>
-
-        <p>
-          MWRF 10:30am-11:20am in HH 401
-        </p>
+        <title>Office</title>
+        <p>Hemenway Hall 404C</p>
       </li>
 
       <li>
-        <title>Course Description</title>
-
-        <p>
-          A thorough introduction to the application of statistics to the sciences. 
-          Topics include a brief introduction to the appropriate descriptive statistics, 
-          relevant probability distributions, and a heavy focus on regression and hypothesis 
-          testing, including t-tests, chi-square tests for categorical data, and analysis 
-          of variance. Emphasis is placed on the analysis of data in order to apply 
-          an appropriate inferential test. Appropriate statistical software is employed. 
-        </p>
+        <title>Office Hours</title>
+        <p>MW 10:30am–11:30am, R 12:00pm–1:00pm, or by appointment</p>
       </li>
+    </dl>
+  </section>
 
+  <!-- Lecture Info -->
+  <section xml:id="lecture-info">
+    <title>Lecture Time and Location</title>
 
+    <ul>
+      <li><p>MW 8:30am–10:20am in Hemenway Annex 329</p></li>
+    </ul>
+  </section>
 
-        <li>
-          <title>Course Learning Outcomes</title>
+  <!-- Course Information -->
+  <section xml:id="course-information">
+    <title>Course Information</title>
 
-            <p>
-              <ol>
-                <li>
-                  <p> Turn research problems into statistical questions.
-                  </p>
-                </li>
+    <subsection xml:id="course-description">
+      <title>Course Description</title>
+      <p>
+        A thorough introduction to the application of statistics to the sciences.
+        Topics include descriptive statistics, probability distributions, and a
+        strong emphasis on regression and hypothesis testing, including t-tests,
+        chi-square tests, and analysis of variance. Emphasis is placed on analyzing
+        data to select appropriate inferential methods. Statistical software is used throughout.
+      </p>
+    </subsection>
 
-                <li>
-                  <p> Identify the structure of a study and explain how this influences potential conclusions.
-                  </p>
-                </li>
+    <subsection xml:id="prerequisites">
+      <title>Prerequisites</title>
+      <p>
+        A grade of C (2.00) or higher in MATH 123 Introduction to Functions or
+        eligibility to enroll in MATH 180 Precalculus.
+      </p>
+    </subsection>
+  </section>
 
-                <li>
-                  <p> Construct graphics from data and describe what they reveal about the data.
-                  </p>
-                </li>
+  <!-- Learning Outcomes -->
+  <section xml:id="learning-outcomes">
+    <title>Course Learning Outcomes</title>
 
-                <li>
-                  <p> Compute summary statistics and explain what they communicate about the data in plain language.
-                  </p>
-                </li>
+    <p>By the end of the course, you will be able to:</p>
 
-                <li>
-                  <p> Select and apply an appropriate statistical method for a given dataset.
-                  </p>
-                </li>
+    <ol>
+      <li><p>Turn research problems into statistical questions.</p></li>
+      <li><p>Identify study structure and its impact on conclusions.</p></li>
+      <li><p>Construct and interpret graphical representations of data.</p></li>
+      <li><p>Compute and interpret summary statistics in plain language.</p></li>
+      <li><p>Select and apply appropriate statistical methods.</p></li>
+      <li><p>Communicate results of statistical analyses effectively.</p></li>
+      <li><p>Use statistical software for analysis and visualization.</p></li>
+    </ol>
+  </section>
 
-                <li>
-                  <p> Communicate the results of a statistical analysis.
-                  </p>
-                </li>
-
-                <li>
-                  <p> Use statistical software for data summarization and analysis.
-                  </p>
-                </li>
-
-              </ol>
-            
-
-            </p>
-      </li>
-
-
-
-      <li>
-        <title>Career Readiness</title>
-
-        <p>
-          This course prepares you for your career by addressing the following National Association of Colleges and Employers (NACE) competencies:
-            <p> <alert> Problem-Solving &amp; Critical Thinking: </alert> Your will learn to translate research questions into statistical queries, analyze study designs, and select appropriate inferential tests, fostering analytical reasoning and decision-making essential for all careers.</p>
-            <p> <alert> Quantitative &amp; Technical Skills: </alert> The course emphasizes computing summary statistics, constructing informative graphics, and using statistical software (RStudio), preparing you to handle and interpret complex data accurately.</p>
-            <p> <alert> Data Interpretation &amp; Communication: </alert> You will practice explaining statistical results in plain language and constructing clear visualizations, enhancing written and verbal communication skills necessary for reporting and collaboration.</p>
-            <p> <alert> Teamwork &amp; Professionalism: </alert> By working with data in realistic contexts, you will develop collaborative and ethical approaches to research, aligning with NACE competencies of teamwork, professionalism, and ethical responsibility.</p>
-            <p> <alert> Career Readiness &amp; Lifelong Learning: </alert> Mastery of statistical tools, data interpretation, and software proficiency equips you to pursue further research, graduate studies, or technical roles, fostering adaptability and continuous learning in your career.</p>
-          For more information on NACE competencies visit: <url href="https://www.naceweb.org/career-readiness/competencies/career-readiness-defined/">NACE Career Readiness Defined</url>. 
-
-        </p>
-      </li>
-
-
-
-      
-      <li>
-        <title>Prerequisite</title>
-
-        <p>
-          A grade of C (2.00) or higher in MATH 123 Introduction to Functions or 
-          the eligibility to enroll in MATH 180 Precalculus.
-        </p>
-      </li>
-
-      <li>
-        <title>Textbook and course materials</title>
-
-        <p>
-          Course content and further reading will come from
-          <pubtitle>OpenIntro Statistics, 4th Edition</pubtitle>
-          by Diez, Çetinkaya-Rundel, and Barr.
-          <url href="https://leanpub.com/os">A PDF is available for free online</url>.
-
-        </p>
-      </li>
-      </dl>
-    </p>
-
-
-  </subsection>
-
-
-  <subsection xml:id="sec-assessments">
-    <title>Assessments and Grades</title>
+  <!-- Career Readiness -->
+  <section xml:id="career-readiness">
+    <title>Career Readiness</title>
 
     <p>
+      This course supports competencies identified by the National Association of Colleges and Employers (NACE):
     </p>
 
+    <ul>
+      <li>
+        <p><alert>Problem-Solving &amp; Critical Thinking:</alert>
+        Translate research questions into statistical analyses and make informed decisions.</p>
+      </li>
 
-    <paragraphs>
-      <title>Assessment of Learning Targets</title>
+      <li>
+        <p><alert>Quantitative &amp; Technical Skills:</alert>
+        Develop skills in computing statistics, visualization, and software use.</p>
+      </li>
 
+      <li>
+        <p><alert>Data Interpretation &amp; Communication:</alert>
+        Communicate statistical findings clearly in written and visual forms.</p>
+      </li>
+
+      <li>
+        <p><alert>Teamwork &amp; Professionalism:</alert>
+        Engage in collaborative and ethical data practices.</p>
+      </li>
+
+      <li>
+        <p><alert>Career Readiness &amp; Lifelong Learning:</alert>
+        Build adaptable skills for continued learning and professional growth.</p>
+      </li>
+    </ul>
+
+    <p>
+      For more information:
+      <url href="https://www.naceweb.org/career-readiness/competencies/career-readiness-defined/">
+        NACE Career Readiness Competencies
+      </url>.
+    </p>
+  </section>
+
+  <!-- Materials -->
+  <section xml:id="materials">
+    <title>Textbook and Technology</title>
+
+    <subsection xml:id="textbook">
+      <title>Textbook</title>
       <p>
+        Course materials are based on <booktitle>OpenIntro Statistics, 4th Edition</booktitle>
+        by Diez, Çetinkaya-Rundel, and Barr.
+        <url href="https://leanpub.com/os">A free PDF is available online</url>.
       </p>
-    </paragraphs>
+    </subsection>
 
+    <subsection xml:id="technology">
+      <title>Technology</title>
 
-    <paragraphs>
-      <title>Final Exam</title>
+      <p><alert>RStudio:</alert> Used for data analysis, visualization, and modeling. Students will use the cloud version.</p>
 
+      <p><alert>Laptop:</alert> A personal laptop is required. Loaners and discounts are available through the university.</p>
+    </subsection>
+  </section>
+
+  <!-- Communication -->
+  <section xml:id="communication">
+    <title>Communication</title>
+
+    <p>
+      Email is the preferred method of contact. Responses are typically provided within two business days.
+      Students are also encouraged to attend office hours or schedule appointments.
+    </p>
+  </section>
+
+  <!-- Assessments -->
+  <section xml:id="assessments">
+    <title>Assessments and Grading Criteria</title>
+
+    <p>Your grade is based on the following components:</p>
+
+    <ol>
+      <li>
+        <p><alert>Lecture Activities (20%)</alert></p>
+        <p>
+          In-class activities including group work and presentations. Lowest two scores are dropped.
+          Cannot be made up if missed.
+        </p>
+      </li>
+
+      <li>
+        <p><alert>Exams (16% each, 80% total)</alert></p>
+        <p>
+          Exams assess understanding of course material. One two-sided handwritten note sheet is allowed.
+          Make-up exams must be completed within five business days with penalties for lateness.
+        </p>
+      </li>
+
+      <li>
+        <p><alert>Readings and Homework</alert></p>
+        <p>
+          Assigned for practice. Feedback available during office hours or by appointment.
+        </p>
+      </li>
+    </ol>
+  </section>
+
+  <!-- Policies -->
+  <section xml:id="policies">
+    <title>Policies</title>
+
+    <subsection xml:id="disability">
+      <title>Disability Services</title>
       <p>
+        Students requesting accommodations must provide documentation from the Office of Academic Support.
+        Contact (508) 626-4906 or visit
+        <url href="http://www.framingham.edu/casa">CASA</url>.
       </p>
-    </paragraphs>
+    </subsection>
 
-
-    <paragraphs>
-      <title>Assessment of Mathematical Engagement</title>
-
+    <subsection xml:id="integrity">
+      <title>Academic Integrity</title>
       <p>
-        Your level of effort and engagement will be assessed through your participation in class and completion of a variety of homework assignments.
-        <dl>
-        <li>
-          <title>Participation</title>
-
-          <p>
-          </p>
-        </li>
-
-        <li>
-          <title>Daily Prep Assignments</title>
-
-          <p>
-          </p>
-        </li>
-
-        <li>
-          <title>Practice Problems</title>
-
-          <p>
-          </p>
-        </li>
-
-        <li>
-          <title>Written Homework</title>
-
-          <p>
-          </p>
-        </li>
-        </dl>
+        Collaboration is encouraged, but submitted work must be your own.
+        Unauthorized use of internet resources or AI tools is a violation of academic integrity.
       </p>
-    </paragraphs>
+    </subsection>
 
-
-    <paragraphs>
-      <title>Final Grades</title>
-
+    <subsection xml:id="attendance">
+      <title>Illness and Absences</title>
       <p>
+        Students should stay home when sick and follow public health guidance.
+        Contact healthcare providers and follow university COVID-19 policies when applicable.
       </p>
-    </paragraphs>
-  </subsection>
-  <!-- Since some parts of the syllabus are used in multiple courses, the following are included as separate files that can easily be copied elsehwere. -->
-  <xi:include href="./subsec-policies.ptx" />
-  <xi:include href="./subsec-dates.ptx" />
-</section>
+    </subsection>
+
+    <subsection xml:id="university">
+      <title>University Policies</title>
+      <p>
+        All policies in the Student Handbook and Code of Conduct apply.
+      </p>
+    </subsection>
+  </section>
+
+</chapter>
