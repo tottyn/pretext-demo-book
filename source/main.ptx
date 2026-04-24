@@ -42,14 +42,14 @@
     <!-- </chapter> -->
 
 
-    <!--<chapter xml:id="activities">-->
-      <!--<title>In-Class Activities</title>-->
+    <chapter xml:id="activities">
+      <title>In-Class Activities</title>
 
       <!-- Remove the example and replace with your own activities -->
-      <!--<xi:include href="./activities/00-sample-activity.ptx"/>-->
+      <xi:include href="./activities/00-sample-activity.ptx"/>
 
       <!-- Add more xi:include files here to include them in the main course -->
-    <!--</chapter>-->
+    </chapter>
 
     <!-- <chapter xml:id="handouts"> -->
       <!-- <title>Handouts</title> -->
