@@ -6,7 +6,7 @@
   <xi:include href="./docinfo.ptx" />
   <!-- By creating a PreTeXt "book" for the course, we can split components into "chapters" -->
   <book>
-    <title>Statistics for the Natural Sciences MADE CHANGES</title>
+    <title>Statistics for the Natural Sciences</title>
 
     <subtitle>STAT 203</subtitle>
 
