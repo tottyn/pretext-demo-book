@@ -96,7 +96,7 @@
     <title>Textbook</title>
 
     <p>
-      Course content and readings will come from OpenIntro Statistics, 4th Edition by Diez, Çetinkaya-Rundel, and Barr. A PDF is available for free online.
+      Course content and readings will come from OpenIntro Statistics, 4th Edition by Diez, Çetinkaya-Rundel, and Barr. A PDF is available <url href="https://leanpub.com/os">for free online</url>.
     </p>
   </section>
 
