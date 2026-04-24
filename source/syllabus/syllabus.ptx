@@ -3,11 +3,6 @@
 <section xml:id="syllabusactual" xmlns:xi="http://www.w3.org/2001/XInclude">
   <title>Syllabus</title>
 
-  <introduction>
-    <p>
-      
-    </p>
-  </introduction>
   <!-- Include chapters -->
   <subsection xml:id="sec-course-info">
     <title>Course Information</title>
